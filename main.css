@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #ddd
+}
+.app {
+    margin: 0;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: repeat(32, 1fr);
+    grid-template-rows: repeat(32, 1fr);
+}
+
+.app > div{
+ font-size: 2px;
+ overflow: hidden;
+ border: 1px splid #000;}
+.yellow{
+    font-size-adjust: initial;
+    text-align: center;
+}
+text{font-display: initial;
+tab-size: 10px;
+}
