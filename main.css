@@ -12,10 +12,13 @@ body {
 }
 
 .app > div{
- font-size: 2px;
+ font-size: 4px;
  overflow: hidden;
- border: 1px splid #000;}
-
+ border: 1px solid #000;}
+.yellow{
+    font-size-adjust: initial;
+    text-align: center;
+}
 text{font-display: initial;
 tab-size: 10px;
 }
