@@ -15,10 +15,7 @@ body {
  font-size: 2px;
  overflow: hidden;
  border: 1px splid #000;}
-.yellow{
-    font-size-adjust: initial;
-    text-align: center;
-}
+
 text{font-display: initial;
 tab-size: 10px;
 }
