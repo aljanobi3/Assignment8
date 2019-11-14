@@ -22,3 +22,8 @@ body {
 text{font-display: initial;
 tab-size: 10px;
 }
+h1{
+    text-align: center;
+    color: blue;
+    
+}
